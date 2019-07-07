@@ -1,0 +1,7 @@
+venv
+*.pyc
+<<<<<<< HEAD
+*.mp4
+=======
+>>>>>>> parent of 60047e0... update gitignore
+.env
